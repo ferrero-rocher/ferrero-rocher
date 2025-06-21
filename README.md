@@ -56,11 +56,24 @@ Whether it's **serving models with low-latency RPC**, creating **feature pipelin
 
 ---
 
-### 📝 Featured Writing
+### 🧠 Proud Projects
 
-- [Distributed File Systems Explained – HDFS vs GlusterFS](https://shaunlewis.hashnode.dev/distributed-file-systems-explained-is-hdfs-or-glusterfs-right-for-you)
-- [Why C++ Still Dominates Backend Infra](https://shaunlewis.hashnode.dev) *(new post coming soon)*
-- [Integrating Machine Learning into Your Microservices Stack](https://shaunlewis.hashnode.dev)
+Here are a few projects I'm incredibly proud of — each one reflects my passion for backend systems, performance, and real-world experimentation:
+
+#### 🔹 [FastHash](https://github.com/ferrero-rocher/FastHash)
+An efficient hashing engine built in C++ designed to benchmark and visualize performance of various hashing algorithms. Includes graphing scripts and CSV generation.
+
+
+
+#### 🔹 [GPU Speedup Comparison](https://github.com/ferrero-rocher/gpu-speedup-comparison)
+A detailed empirical comparison between CPU and GPU performance for parallel computing tasks using OpenMP and CUDA. Built for benchmarking parallel algorithms.
+
+
+
+#### 🔹 [Twitter Backend Microservices](https://github.com/ferrero-rocher/twitter-backend-microservices)
+A production-style microservices clone of Twitter, demonstrating concepts like user auth, post management, API gateway routing, and inter-service communication using Spring Boot.
+
+
 
 ---
 
@@ -68,7 +81,7 @@ Whether it's **serving models with low-latency RPC**, creating **feature pipelin
 
 - GitHub: [@ferrero-rocher](https://github.com/ferrero-rocher)
 - Hashnode: [shaunlewis.hashnode.dev](https://shaunlewis.hashnode.dev)
-- LinkedIn: [Add your profile here]
+- LinkedIn: [shaun-lewis](https://www.linkedin.com/in/shaun-lewis)
 
 ---
 
