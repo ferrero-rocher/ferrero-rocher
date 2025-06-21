@@ -61,7 +61,7 @@ Whether it's **serving models with low-latency RPC**, creating **feature pipelin
 Here are a few projects I'm incredibly proud of — each one reflects my passion for backend systems, performance, and real-world experimentation:
 
 #### 🔹 [FastHash](https://github.com/ferrero-rocher/FastHash)
-An efficient hashing engine built in C++ designed to benchmark and visualize performance of various hashing algorithms. Includes graphing scripts and CSV generation.
+A Redis-inspired key-value store built in modern C++ with multithreaded TCP support (via Winsock2), in-memory storage using `std::unordered_map`, and atomic file persistence. Implements key expiry, a custom logger, and handles 100+ concurrent connections with thread safety and low latency. Great for understanding how real in-memory databases work.
 
 
 
@@ -74,6 +74,12 @@ A detailed empirical comparison between CPU and GPU performance for parallel com
 A production-style microservices clone of Twitter, demonstrating concepts like user auth, post management, API gateway routing, and inter-service communication using Spring Boot.
 
 
+
+---
+
+### 📚 Explore More Projects
+
+Want to see more? Check out my full list of repositories on [my GitHub profile](https://github.com/ferrero-rocher) — from experimental systems programming to practical backend services and beyond.
 
 ---
 
